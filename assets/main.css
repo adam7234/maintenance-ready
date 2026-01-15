@@ -52,8 +52,18 @@ body{ margin:0; background:var(--bg); color:var(--text); font:16px/1.55 -apple-s
 @media (max-width: 880px){
   .hero{ grid-template-columns:1fr; }
   .hero h1{ font-size:42px; }
-  .nav{ display:none; position:absolute; left:0; right:0; top:60px; background:#fff; border-bottom:1px solid var(--border); padding:14px 24px; flex-direction:column; margin:0; }
+
+  .topbar{ flex-wrap:wrap; }
+  .nav{
+    display:none;
+    width:100%;
+    margin:0;
+    padding:14px 0 0 0;
+    flex-direction:column;
+    gap:12px;
+  }
   .nav.open{ display:flex; }
+
   .burger{ display:inline-block; }
-  .btn{ display:none; } /* optional: hide CTA on mobile, or keep it */
+  .topbar .btn{ display:none; } /* hide only header CTA */
 }
