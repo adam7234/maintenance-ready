@@ -1,1 +1,14 @@
-
+.topbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:24px 32px;
+}
+.nav a{
+  margin-left:16px;
+  text-decoration:none;
+}
+.content{
+  padding: 0 32px 48px 32px;
+  max-width: 900px;
+}
