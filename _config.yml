@@ -1,2 +1,7 @@
 title: Maintenance Ready
 theme: jekyll-theme-minimal
+
+header_pages:
+  - paths.md
+  - proof.md
+  - about.md
