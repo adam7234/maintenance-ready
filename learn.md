@@ -1,4 +1,5 @@
 ---
+layout: learn
 title: Learning Paths
 ---
 
