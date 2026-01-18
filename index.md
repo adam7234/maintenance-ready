@@ -5,7 +5,7 @@ title: Technician Ready
 
 <section class="hero">
   <div>
-    <h1>Become a job-ready building maintenance tech.</h1>
+    <h1>Become a job-ready building maintenance technician.</h1>
     <p>A step-by-step path: what to learn, what to practice, and what to prove—so you can interview and start strong.</p>
     <div class="cta">
       <a class="btn" href="{{ site.baseurl }}/paths">Get started</a>
@@ -13,7 +13,7 @@ title: Technician Ready
   </div>
 
   <div class="card">
-    <h3>Example Path: Maintenance Core Skills</h3>
+    <h3>Example Path: Technician Core Skills</h3>
     <div class="sub">4-week preview</div>
     <div class="row"><strong>Week 1:</strong> Tools + safety fundamentals</div>
     <div class="row"><strong>Week 2:</strong> Plumbing basics (toilets, faucets, drains)</div>
