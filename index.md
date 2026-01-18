@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maintenance Ready
+title: Technician Ready
 ---
 
 <section class="hero">
